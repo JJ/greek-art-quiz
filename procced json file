@@ -1,0 +1,1729 @@
+{
+    "objects": [
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10808/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10809/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10811/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10812/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10961/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κρατηρίσκος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10962/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10963/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11425/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κρατηρίσκος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11149/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200- 2000 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τριπτήρας"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10880/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2000 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τριπτήρας"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11251/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2000 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τριπτήρας"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10881/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2000 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τριπτήρας"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10882/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10883/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τμήμα ειδωλίου"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10884/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τμήμα ειδωλίου"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10885/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τμήμα ειδωλίου"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10930/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τμήμα ειδωλίου"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10931/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τμήμα ειδωλίου"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11592/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πόδι ειδωλίου"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11252/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τμήμα ειδωλίου"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11082/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11301/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11105/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10950/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κρατηρίσκος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11110/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κρατηρίσκος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11310/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Αγγείο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11503/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πυξίδα"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11504/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κύλικα"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10954/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κύλικα"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11136/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11505/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11311/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10955/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10802/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11137/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10803/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10804/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11312/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πινάκιο (παλέτα)"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11313/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πινάκιο (παλέτα)"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11314/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πινάκιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11138/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πυξίδα"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10805/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πυξίδα"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10810/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2800-2700 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Αγγείο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11139/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2800-2700 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Αγγείο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11184/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2500/2400-2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πρόχους"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10813/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2500/2400-2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πρόχους"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10828/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2300-2000 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Αγγείο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11140/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2800-2700 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τηγανόσχημο σκεύος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11315/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2800-2700 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Τηγανόσχημο σκεύος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11316/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10829/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11317/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11318/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10831/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11528/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11319/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2400/2300-2000 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMaker": {
+                "label": "Primary Maker",
+                "value": "\"Καλλιτέχνης Schuster\""
+            },
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11506/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2300/2300  π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10847/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κεφάλι ειδωλίου"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10853/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2800-2700 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Αρύβαλλος"
+            }
+        },
+        {
+            "primaryMaker": {
+                "label": "Primary Maker",
+                "value": "Καλλιτέχνης Ashmolean"
+            },
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11516/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10854/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11329/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11330/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κύλικα"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11517/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κύλικα"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11518/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11331/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11003/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10855/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11332/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2800-2700 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Αρύβαλλος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10856/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Αρύβαλλος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11333/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2800-2700 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Αρύβαλλος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11602/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Μαχαίρι"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11335/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Σμίλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11336/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Σφυροπέλεκυς"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11004/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10857/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πρόχους"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10858/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Αγγείο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10859/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κρατηρίσκος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11337/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κρατηρίσκος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10861/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2500/2400-2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πρόχους"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10862/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κύπελλο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11338/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Εγχειρίδιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11339/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Εγχειρίδιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11340/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMaker": {
+                "label": "Primary Maker",
+                "value": "Καλλιτέχνης Γουλανδρή"
+            },
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11341/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11342/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.X."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10863/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κεφάλι ειδωλίου"
+            }
+        },
+        {
+            "primaryMaker": {
+                "label": "Primary Maker",
+                "value": "Καλλιτέχνης της Κοπεγχάγης"
+            },
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11343/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11520/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κρατηρίσκος"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11521/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2300-2000 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κεφάλι ειδωλίου"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11344/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2500/2400-2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πρόχους"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11345/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700- 2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πυξίδα"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10864/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2800-2700 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πυξίδα"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10867/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "3200-2800 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Πινάκιο (παλέτα)"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10869/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Φιάλη"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11348/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Κύλικα"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11349/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMaker": {
+                "label": "Primary Maker",
+                "value": "Καλλιτέχνης Γουλανδρή"
+            },
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11350/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMaker": {
+                "label": "Primary Maker",
+                "value": "Καλλιτέχνης Rodgers"
+            },
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/11522/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        },
+        {
+            "primaryMedia": {
+                "value": "src: https://collections.cycladic.gr/internal/media/dispatcher/10870/full"
+            },
+            "displayDate": {
+                "label": "Date",
+                "value": "2700-2400/2300 π.Χ."
+            },
+            "id": {
+                "label": "Id",
+                "value": "ANONYMIZED"
+            },
+            "title": {
+                "label": "Title",
+                "value": "Ειδώλιο"
+            }
+        }
+    ],
+    "count": 221
+}
