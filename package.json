@@ -1,0 +1,33 @@
+{
+  "name": "greek-art-quiz",
+  "version": "1.0.0",
+  "description": "Quizzes using open data from Greek (and other) museums",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJ/greek-art-quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JJ/greek-art-quiz/issues"
+  },
+  "homepage": "https://github.com/JJ/greek-art-quiz#readme",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/ajv": "^0.0.5",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
